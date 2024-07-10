@@ -1,51 +1,25 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+Prontos para a era da pós-verdade? 🌌
 
-## 🚀 Introdução
+📒 Descrição
 
-> Woooow! Look at this 👀
+Criei uma publicação para meu linkedin falando sobre os avanços na geração de imagens, áudio e vídeo por IA.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+🤖 Tecnologias Utilizadas
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+IA Generativa ChatGPT para verificar ortogradica, dar algunas sugestão de alteração e criar hashtag para ficar mais facil de encontrar a publicação;
+IA Generativa Leonardo AI para criar a arte visual;
+IA Generativa Runaway para criar um video com as imagens;
 
-### Objetivos
+Ferramenta Libre Office para edição.
+🧐 Processo de Criação
+Utilizei o "ChatGPT" para revisar minha pesquisa sobre sobre os avanços na geração de imagens, áudio e vídeo por IA. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas. Para concluir, melhorei o prompt de comando para criar um video com jogadores de futebol e lideres de estado em um montem de video nas principais capitais do mundo com "Runway"
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+🚀 Resultados
+Apresenta um video onde esses lideres em um ambiente real nunca estaria demonstrando como as IAs Genativas podem ser uma ferramenta poderosa para manipular a verdade disseminação o fakenews. 
 
-### Template
+LINK PARA para a publicação:
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+https://www.linkedin.com/feed/update/urn:li:activity:7215512952508977152/
 
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+💭 Reflexão
+Reveladora  o potencial criativo das IAs e tambem os seus perigos se usada de forma errada.

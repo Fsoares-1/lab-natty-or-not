@@ -10,7 +10,6 @@ IA Generativa ChatGPT para verificar ortogradica, dar algunas sugestão de alter
 IA Generativa Leonardo AI para criar a arte visual;
 IA Generativa Runaway para criar um video com as imagens;
 
-Ferramenta Libre Office para edição.
 🧐 Processo de Criação
 Utilizei o "ChatGPT" para revisar minha pesquisa sobre sobre os avanços na geração de imagens, áudio e vídeo por IA. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas. Para concluir, melhorei o prompt de comando para criar um video com jogadores de futebol e lideres de estado em um montem de video nas principais capitais do mundo com "Runway"
 
